@@ -1,0 +1,9 @@
+.btn-blue {
+  background-color: #007BFF;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+} 
